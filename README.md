@@ -3,10 +3,8 @@
 # Olá, eu sou Cláudio Leite 👋
 
 ### 👨‍💻 Sobre Mim
-- 🔭 Atualmente trabalhando em um projeto de [descreva o projeto].
-- 🌱 Aprendendo sobre **React** e **Testes Automatizados**.
-- 💬 Me pergunte sobre **Python** e **Desenvolvimento Web**.
-- 📫 Como me encontrar: [seu.email@exemplo.com](mailto:seu.email@exemplo.com)
+- 🔭 Apaixonado por tecnologia
+- 📫 Como me encontrar: [seu.email@exemplo.com](mailto:claudio.leite_@live.com)
 
 ### 🚀 Minhas Habilidades
 ![Java](https://img.shields.io/badge/Java-000000?style=for-the-badge&logo=java&logoColor=white)
